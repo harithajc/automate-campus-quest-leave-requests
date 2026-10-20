@@ -1,4 +1,4 @@
-# automate-campus-quest-leave-requests
+
 # Student Leave Requests – Automate Campus Quest (Challenge 2)
 
 ## Problem
